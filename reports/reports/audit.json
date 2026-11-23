@@ -1,0 +1,15 @@
+{
+  "raw_rows": 73362,
+  "unique_ids": 73362,
+  "invalid_created": 0,
+  "invalid_closed": 0,
+  "closed_without_valid_duration": 14,
+  "nonclosed_with_close_date": 0,
+  "valid_closed": 72991,
+  "nonclosed_status": 357,
+  "unknown_status": 0,
+  "median_hours": 30.364722222222223,
+  "p90_hours": 181.35444444444445,
+  "snapshot_utc": "2026-11-23T15:49:55.202687+00:00",
+  "sha256": "38f2ebdeaa193175f605035081706c1f4efe0343a0d118b3eacb94561f3b0e7f"
+}
