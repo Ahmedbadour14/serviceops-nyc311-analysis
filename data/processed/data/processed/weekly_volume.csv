@@ -1,0 +1,1316 @@
+week,problem,borough,requests
+2024-12-30,Illegal Dumping,QUEENS,143
+2024-12-30,Illegal Dumping,BROOKLYN,154
+2024-12-30,Dirty Condition,STATEN ISLAND,53
+2024-12-30,Illegal Dumping,MANHATTAN,42
+2024-12-30,Residential Disposal Complaint,BROOKLYN,65
+2024-12-30,Dirty Condition,QUEENS,140
+2024-12-30,Residential Disposal Complaint,QUEENS,42
+2024-12-30,Dirty Condition,BROOKLYN,252
+2024-12-30,Dirty Condition,BRONX,107
+2024-12-30,Dirty Condition,MANHATTAN,111
+2024-12-30,Abandoned Bike,BROOKLYN,16
+2024-12-30,Illegal Dumping,BRONX,92
+2024-12-30,Litter Basket Request,STATEN ISLAND,7
+2024-12-30,Obstruction,QUEENS,45
+2024-12-30,Highway Condition,BROOKLYN,1
+2024-12-30,Graffiti,BRONX,31
+2024-12-30,Graffiti,MANHATTAN,37
+2024-12-30,Vendor Enforcement,MANHATTAN,127
+2024-12-30,Dead Animal,STATEN ISLAND,11
+2024-12-30,Vendor Enforcement,BROOKLYN,27
+2024-12-30,Illegal Posting,BROOKLYN,26
+2024-12-30,Lot Condition,QUEENS,4
+2024-12-30,Residential Disposal Complaint,STATEN ISLAND,24
+2024-12-30,Graffiti,QUEENS,18
+2024-12-30,Graffiti,Unspecified,1
+2024-12-30,Litter Basket Request,BROOKLYN,15
+2024-12-30,Commercial Disposal Complaint,MANHATTAN,9
+2024-12-30,Dumpster Complaint,MANHATTAN,4
+2024-12-30,Dead Animal,MANHATTAN,8
+2024-12-30,Illegal Posting,STATEN ISLAND,10
+2024-12-30,Dead Animal,BROOKLYN,51
+2024-12-30,Graffiti,BROOKLYN,158
+2024-12-30,Residential Disposal Complaint,MANHATTAN,45
+2024-12-30,Illegal Dumping,STATEN ISLAND,33
+2024-12-30,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,3
+2024-12-30,Dead Animal,BRONX,11
+2024-12-30,Sanitation Worker or Vehicle Complaint,QUEENS,16
+2024-12-30,Litter Basket Request,MANHATTAN,12
+2024-12-30,Obstruction,BROOKLYN,49
+2024-12-30,Dead Animal,QUEENS,32
+2024-12-30,Lot Condition,BROOKLYN,2
+2024-12-30,Litter Basket Request,BRONX,3
+2024-12-30,Highway Condition,STATEN ISLAND,2
+2024-12-30,Residential Disposal Complaint,BRONX,9
+2024-12-30,Derelict Vehicles,BROOKLYN,156
+2024-12-30,Dumpster Complaint,BROOKLYN,9
+2024-12-30,Obstruction,MANHATTAN,51
+2024-12-30,Vendor Enforcement,QUEENS,15
+2024-12-30,Dumpster Complaint,QUEENS,4
+2024-12-30,Street Sweeping Complaint,QUEENS,22
+2024-12-30,Street Sweeping Complaint,BROOKLYN,62
+2024-12-30,Derelict Vehicles,BRONX,157
+2024-12-30,Sanitation Worker or Vehicle Complaint,BRONX,7
+2024-12-30,Derelict Vehicles,QUEENS,190
+2024-12-30,Derelict Vehicles,STATEN ISLAND,25
+2024-12-30,Obstruction,STATEN ISLAND,8
+2024-12-30,Lot Condition,STATEN ISLAND,4
+2024-12-30,Vendor Enforcement,BRONX,12
+2024-12-30,Illegal Posting,QUEENS,18
+2024-12-30,Commercial Disposal Complaint,STATEN ISLAND,1
+2024-12-30,Dumpster Complaint,STATEN ISLAND,1
+2024-12-30,Commercial Disposal Complaint,BROOKLYN,8
+2024-12-30,Commercial Disposal Complaint,BRONX,3
+2024-12-30,Snow or Ice,STATEN ISLAND,10
+2024-12-30,Sanitation Worker or Vehicle Complaint,MANHATTAN,4
+2024-12-30,Litter Basket Complaint,BROOKLYN,1
+2024-12-30,Derelict Vehicles,MANHATTAN,37
+2024-12-30,Illegal Posting,MANHATTAN,2
+2024-12-30,Sanitation Worker or Vehicle Complaint,BROOKLYN,14
+2024-12-30,Street Sweeping Complaint,MANHATTAN,7
+2024-12-30,Obstruction,BRONX,7
+2024-12-30,Commercial Disposal Complaint,QUEENS,7
+2024-12-30,Street Sweeping Complaint,BRONX,9
+2024-12-30,Litter Basket Request,QUEENS,5
+2024-12-30,Derelict Vehicles,Unspecified,2
+2024-12-30,Snow or Ice,QUEENS,11
+2024-12-30,Graffiti,STATEN ISLAND,5
+2024-12-30,Abandoned Bike,BRONX,4
+2024-12-30,Illegal Dumping,Unspecified,1
+2024-12-30,Abandoned Bike,MANHATTAN,1
+2024-12-30,Dumpster Complaint,BRONX,2
+2024-12-30,Snow or Ice,BRONX,3
+2024-12-30,Snow or Ice,BROOKLYN,2
+2024-12-30,Recycling Basket Complaint,BROOKLYN,1
+2024-12-30,Street Sweeping Complaint,STATEN ISLAND,1
+2024-12-30,Highway Condition,MANHATTAN,1
+2024-12-30,Missed Collection,QUEENS,18
+2024-12-30,Abandoned Bike,QUEENS,3
+2024-12-30,Missed Collection,BROOKLYN,46
+2024-12-30,Lot Condition,MANHATTAN,1
+2024-12-30,Snow or Ice,MANHATTAN,3
+2024-12-30,Missed Collection,STATEN ISLAND,15
+2024-12-30,Missed Collection,BRONX,18
+2024-12-30,Highway Condition,QUEENS,2
+2024-12-30,Missed Collection,MANHATTAN,6
+2025-01-06,Snow or Ice,BROOKLYN,279
+2025-01-06,Dirty Condition,STATEN ISLAND,64
+2025-01-06,Dirty Condition,BRONX,150
+2025-01-06,Snow or Ice,QUEENS,103
+2025-01-06,Dirty Condition,BROOKLYN,329
+2025-01-06,Dirty Condition,MANHATTAN,212
+2025-01-06,Dirty Condition,QUEENS,199
+2025-01-06,Illegal Dumping,BROOKLYN,211
+2025-01-06,Snow or Ice,STATEN ISLAND,175
+2025-01-06,Snow or Ice,MANHATTAN,53
+2025-01-06,Illegal Dumping,STATEN ISLAND,41
+2025-01-06,Missed Collection,QUEENS,161
+2025-01-06,Obstruction,BRONX,23
+2025-01-06,Missed Collection,BRONX,86
+2025-01-06,Residential Disposal Complaint,QUEENS,48
+2025-01-06,Missed Collection,BROOKLYN,177
+2025-01-06,Illegal Dumping,MANHATTAN,78
+2025-01-06,Dead Animal,QUEENS,40
+2025-01-06,Dead Animal,BROOKLYN,52
+2025-01-06,Residential Disposal Complaint,STATEN ISLAND,32
+2025-01-06,Residential Disposal Complaint,BROOKLYN,115
+2025-01-06,Obstruction,STATEN ISLAND,19
+2025-01-06,Obstruction,MANHATTAN,73
+2025-01-06,Obstruction,QUEENS,95
+2025-01-06,Highway Condition,STATEN ISLAND,2
+2025-01-06,Commercial Disposal Complaint,BROOKLYN,26
+2025-01-06,Derelict Vehicles,QUEENS,263
+2025-01-06,Derelict Vehicles,BRONX,197
+2025-01-06,Dumpster Complaint,BRONX,4
+2025-01-06,Derelict Vehicles,BROOKLYN,232
+2025-01-06,Vendor Enforcement,MANHATTAN,208
+2025-01-06,Sanitation Worker or Vehicle Complaint,MANHATTAN,18
+2025-01-06,Snow or Ice,BRONX,21
+2025-01-06,Illegal Posting,QUEENS,24
+2025-01-06,Graffiti,STATEN ISLAND,9
+2025-01-06,Graffiti,BROOKLYN,138
+2025-01-06,Graffiti,MANHATTAN,81
+2025-01-06,Graffiti,QUEENS,112
+2025-01-06,Illegal Dumping,BRONX,107
+2025-01-06,Illegal Dumping,QUEENS,155
+2025-01-06,Obstruction,BROOKLYN,53
+2025-01-06,Missed Collection,STATEN ISLAND,109
+2025-01-06,Dead Animal,STATEN ISLAND,31
+2025-01-06,Vendor Enforcement,BRONX,12
+2025-01-06,Vendor Enforcement,BROOKLYN,51
+2025-01-06,Litter Basket Complaint,BRONX,2
+2025-01-06,Graffiti,BRONX,27
+2025-01-06,Dumpster Complaint,MANHATTAN,10
+2025-01-06,Commercial Disposal Complaint,MANHATTAN,15
+2025-01-06,Abandoned Bike,BROOKLYN,27
+2025-01-06,Residential Disposal Complaint,MANHATTAN,63
+2025-01-06,Sanitation Worker or Vehicle Complaint,QUEENS,25
+2025-01-06,Sanitation Worker or Vehicle Complaint,BROOKLYN,22
+2025-01-06,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,9
+2025-01-06,Litter Basket Request,MANHATTAN,28
+2025-01-06,Litter Basket Request,BROOKLYN,18
+2025-01-06,Illegal Posting,BRONX,3
+2025-01-06,Vendor Enforcement,QUEENS,30
+2025-01-06,Dead Animal,MANHATTAN,9
+2025-01-06,Illegal Posting,BROOKLYN,23
+2025-01-06,Dead Animal,BRONX,24
+2025-01-06,Residential Disposal Complaint,BRONX,28
+2025-01-06,Sanitation Worker or Vehicle Complaint,BRONX,10
+2025-01-06,Missed Collection,MANHATTAN,111
+2025-01-06,Abandoned Bike,MANHATTAN,12
+2025-01-06,Institution Disposal Complaint,BRONX,1
+2025-01-06,Litter Basket Request,QUEENS,19
+2025-01-06,Street Sweeping Complaint,QUEENS,13
+2025-01-06,Commercial Disposal Complaint,QUEENS,10
+2025-01-06,Highway Condition,BRONX,1
+2025-01-06,Street Sweeping Complaint,BROOKLYN,57
+2025-01-06,Derelict Vehicles,MANHATTAN,59
+2025-01-06,Recycling Basket Complaint,BROOKLYN,1
+2025-01-06,Highway Condition,QUEENS,3
+2025-01-06,Street Sweeping Complaint,BRONX,17
+2025-01-06,Street Sweeping Complaint,MANHATTAN,9
+2025-01-06,Abandoned Bike,BRONX,7
+2025-01-06,Litter Basket Request,STATEN ISLAND,3
+2025-01-06,Derelict Vehicles,STATEN ISLAND,21
+2025-01-06,Illegal Posting,STATEN ISLAND,16
+2025-01-06,Litter Basket Request,BRONX,4
+2025-01-06,Abandoned Bike,QUEENS,4
+2025-01-06,Snow or Ice,Unspecified,1
+2025-01-06,Lot Condition,BRONX,4
+2025-01-06,Litter Basket Complaint,STATEN ISLAND,1
+2025-01-06,Dumpster Complaint,BROOKLYN,9
+2025-01-06,Illegal Posting,MANHATTAN,2
+2025-01-06,Dumpster Complaint,QUEENS,9
+2025-01-06,Highway Condition,BROOKLYN,1
+2025-01-06,Recycling Basket Complaint,MANHATTAN,1
+2025-01-06,Derelict Vehicles,Unspecified,5
+2025-01-06,Lot Condition,QUEENS,2
+2025-01-06,Litter Basket Complaint,MANHATTAN,1
+2025-01-06,Commercial Disposal Complaint,STATEN ISLAND,1
+2025-01-06,Lot Condition,BROOKLYN,1
+2025-01-06,Oil or Gas Spill,BRONX,1
+2025-01-06,Commercial Disposal Complaint,BRONX,2
+2025-01-06,Dumpster Complaint,STATEN ISLAND,1
+2025-01-13,Dirty Condition,MANHATTAN,212
+2025-01-13,Derelict Vehicles,QUEENS,295
+2025-01-13,Dirty Condition,BRONX,156
+2025-01-13,Dumpster Complaint,BROOKLYN,18
+2025-01-13,Missed Collection,BROOKLYN,337
+2025-01-13,Dirty Condition,QUEENS,191
+2025-01-13,Illegal Dumping,BROOKLYN,227
+2025-01-13,Vendor Enforcement,MANHATTAN,224
+2025-01-13,Dirty Condition,BROOKLYN,331
+2025-01-13,Abandoned Bike,BROOKLYN,19
+2025-01-13,Obstruction,MANHATTAN,93
+2025-01-13,Obstruction,BRONX,27
+2025-01-13,Dumpster Complaint,MANHATTAN,10
+2025-01-13,Obstruction,BROOKLYN,62
+2025-01-13,Dirty Condition,STATEN ISLAND,91
+2025-01-13,Graffiti,QUEENS,61
+2025-01-13,Graffiti,MANHATTAN,78
+2025-01-13,Illegal Dumping,QUEENS,186
+2025-01-13,Graffiti,BROOKLYN,175
+2025-01-13,Highway Condition,BROOKLYN,2
+2025-01-13,Illegal Dumping,MANHATTAN,65
+2025-01-13,Missed Collection,QUEENS,288
+2025-01-13,Missed Collection,BRONX,112
+2025-01-13,Residential Disposal Complaint,MANHATTAN,95
+2025-01-13,Missed Collection,STATEN ISLAND,161
+2025-01-13,Dead Animal,MANHATTAN,16
+2025-01-13,Street Sweeping Complaint,BROOKLYN,86
+2025-01-13,Dead Animal,QUEENS,57
+2025-01-13,Obstruction,QUEENS,104
+2025-01-13,Litter Basket Request,MANHATTAN,21
+2025-01-13,Graffiti,BRONX,19
+2025-01-13,Derelict Vehicles,BRONX,219
+2025-01-13,Derelict Vehicles,BROOKLYN,277
+2025-01-13,Residential Disposal Complaint,QUEENS,62
+2025-01-13,Vendor Enforcement,QUEENS,31
+2025-01-13,Dead Animal,BRONX,25
+2025-01-13,Vendor Enforcement,BROOKLYN,37
+2025-01-13,Vendor Enforcement,BRONX,16
+2025-01-13,Dead Animal,STATEN ISLAND,30
+2025-01-13,Illegal Dumping,BRONX,120
+2025-01-13,Abandoned Bike,BRONX,7
+2025-01-13,Residential Disposal Complaint,BROOKLYN,97
+2025-01-13,Street Sweeping Complaint,MANHATTAN,21
+2025-01-13,Snow or Ice,BROOKLYN,34
+2025-01-13,Illegal Dumping,STATEN ISLAND,49
+2025-01-13,Missed Collection,MANHATTAN,158
+2025-01-13,Commercial Disposal Complaint,BROOKLYN,12
+2025-01-13,Dead Animal,BROOKLYN,61
+2025-01-13,Street Sweeping Complaint,BRONX,17
+2025-01-13,Residential Disposal Complaint,BRONX,37
+2025-01-13,Abandoned Bike,QUEENS,6
+2025-01-13,Sanitation Worker or Vehicle Complaint,BROOKLYN,16
+2025-01-13,Lot Condition,STATEN ISLAND,2
+2025-01-13,Snow or Ice,QUEENS,49
+2025-01-13,Abandoned Bike,MANHATTAN,8
+2025-01-13,Obstruction,STATEN ISLAND,28
+2025-01-13,Derelict Vehicles,STATEN ISLAND,36
+2025-01-13,Sanitation Worker or Vehicle Complaint,MANHATTAN,12
+2025-01-13,Sanitation Worker or Vehicle Complaint,QUEENS,26
+2025-01-13,Residential Disposal Complaint,STATEN ISLAND,15
+2025-01-13,Dumpster Complaint,QUEENS,7
+2025-01-13,Derelict Vehicles,MANHATTAN,45
+2025-01-13,Illegal Posting,STATEN ISLAND,35
+2025-01-13,Litter Basket Request,BROOKLYN,39
+2025-01-13,Commercial Disposal Complaint,QUEENS,5
+2025-01-13,Street Sweeping Complaint,QUEENS,19
+2025-01-13,Litter Basket Request,BRONX,1
+2025-01-13,Litter Basket Request,STATEN ISLAND,6
+2025-01-13,Lot Condition,QUEENS,8
+2025-01-13,Sanitation Worker or Vehicle Complaint,BRONX,10
+2025-01-13,Snow or Ice,STATEN ISLAND,37
+2025-01-13,Commercial Disposal Complaint,MANHATTAN,15
+2025-01-13,Highway Condition,STATEN ISLAND,5
+2025-01-13,Commercial Disposal Complaint,STATEN ISLAND,1
+2025-01-13,Litter Basket Complaint,STATEN ISLAND,1
+2025-01-13,Lot Condition,BRONX,3
+2025-01-13,Litter Basket Request,QUEENS,9
+2025-01-13,Illegal Posting,BROOKLYN,31
+2025-01-13,Illegal Posting,QUEENS,35
+2025-01-13,Incorrect Data,BROOKLYN,2
+2025-01-13,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,7
+2025-01-13,Snow or Ice,BRONX,17
+2025-01-13,Dirty Condition,Unspecified,1
+2025-01-13,Highway Condition,QUEENS,4
+2025-01-13,Highway Condition,BRONX,1
+2025-01-13,Illegal Posting,BRONX,6
+2025-01-13,Illegal Posting,MANHATTAN,4
+2025-01-13,Litter Basket Complaint,QUEENS,2
+2025-01-13,Graffiti,STATEN ISLAND,8
+2025-01-13,Unspecified,QUEENS,1
+2025-01-13,Snow or Ice,MANHATTAN,4
+2025-01-13,Dumpster Complaint,STATEN ISLAND,4
+2025-01-13,Lot Condition,MANHATTAN,2
+2025-01-13,Commercial Disposal Complaint,BRONX,1
+2025-01-13,Derelict Vehicles,Unspecified,1
+2025-01-20,Snow or Ice,BRONX,419
+2025-01-20,Snow or Ice,QUEENS,1337
+2025-01-20,Snow or Ice,BROOKLYN,1799
+2025-01-20,Commercial Disposal Complaint,BROOKLYN,24
+2025-01-13,Lot Condition,BROOKLYN,4
+2025-01-20,Commercial Disposal Complaint,QUEENS,8
+2025-01-20,Snow or Ice,STATEN ISLAND,449
+2025-01-20,Sanitation Worker or Vehicle Complaint,MANHATTAN,18
+2025-01-20,Obstruction,MANHATTAN,100
+2025-01-20,Commercial Disposal Complaint,MANHATTAN,8
+2025-01-20,Snow or Ice,MANHATTAN,275
+2025-01-20,Abandoned Bike,BRONX,6
+2025-01-20,Dirty Condition,MANHATTAN,173
+2025-01-20,Dirty Condition,BROOKLYN,187
+2025-01-20,Dirty Condition,BRONX,110
+2025-01-20,Illegal Dumping,QUEENS,115
+2025-01-20,Dirty Condition,QUEENS,134
+2025-01-20,Illegal Dumping,BROOKLYN,183
+2025-01-20,Residential Disposal Complaint,MANHATTAN,94
+2025-01-20,Dirty Condition,STATEN ISLAND,43
+2025-01-20,Vendor Enforcement,MANHATTAN,192
+2025-01-20,Dead Animal,QUEENS,43
+2025-01-20,Graffiti,BROOKLYN,103
+2025-01-20,Sanitation Worker or Vehicle Complaint,BROOKLYN,17
+2025-01-20,Graffiti,QUEENS,15
+2025-01-20,Abandoned Bike,MANHATTAN,9
+2025-01-20,Litter Basket Request,MANHATTAN,18
+2025-01-20,Illegal Dumping,BRONX,80
+2025-01-20,Illegal Dumping,MANHATTAN,42
+2025-01-20,Residential Disposal Complaint,BRONX,31
+2025-01-20,Residential Disposal Complaint,BROOKLYN,82
+2025-01-20,Dead Animal,MANHATTAN,6
+2025-01-20,Derelict Vehicles,BROOKLYN,204
+2025-01-20,Derelict Vehicles,BRONX,142
+2025-01-20,Vendor Enforcement,QUEENS,17
+2025-01-20,Dumpster Complaint,MANHATTAN,9
+2025-01-20,Obstruction,QUEENS,74
+2025-01-20,Graffiti,MANHATTAN,47
+2025-01-20,Dumpster Complaint,QUEENS,5
+2025-01-20,Obstruction,BROOKLYN,58
+2025-01-20,Litter Basket Request,BROOKLYN,21
+2025-01-20,Derelict Vehicles,STATEN ISLAND,24
+2025-01-20,Dumpster Complaint,BROOKLYN,15
+2025-01-20,Litter Basket Request,QUEENS,6
+2025-01-20,Vendor Enforcement,BROOKLYN,33
+2025-01-20,Residential Disposal Complaint,QUEENS,41
+2025-01-20,Institution Disposal Complaint,BRONX,1
+2025-01-20,Sanitation Worker or Vehicle Complaint,BRONX,10
+2025-01-20,Illegal Posting,BROOKLYN,34
+2025-01-20,Dead Animal,BROOKLYN,35
+2025-01-20,Street Sweeping Complaint,BROOKLYN,18
+2025-01-20,Derelict Vehicles,QUEENS,239
+2025-01-20,Illegal Posting,STATEN ISLAND,12
+2025-01-20,Dumpster Complaint,BRONX,1
+2025-01-20,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,4
+2025-01-20,Obstruction,BRONX,10
+2025-01-20,Abandoned Bike,BROOKLYN,17
+2025-01-20,Illegal Dumping,STATEN ISLAND,14
+2025-01-20,Derelict Vehicles,MANHATTAN,39
+2025-01-20,Dead Animal,BRONX,8
+2025-01-20,Highway Condition,QUEENS,4
+2025-01-20,Obstruction,STATEN ISLAND,13
+2025-01-20,Graffiti,BRONX,10
+2025-01-20,Street Sweeping Complaint,MANHATTAN,3
+2025-01-20,Illegal Posting,QUEENS,9
+2025-01-20,Sanitation Worker or Vehicle Complaint,QUEENS,16
+2025-01-20,Lot Condition,BROOKLYN,2
+2025-01-20,Vendor Enforcement,BRONX,9
+2025-01-20,Highway Condition,BROOKLYN,3
+2025-01-20,Lot Condition,BRONX,1
+2025-01-20,Street Sweeping Complaint,QUEENS,3
+2025-01-20,Recycling Basket Complaint,BROOKLYN,1
+2025-01-20,Dead Animal,STATEN ISLAND,7
+2025-01-20,Missed Collection,BROOKLYN,166
+2025-01-20,Missed Collection,MANHATTAN,58
+2025-01-20,Incorrect Data,QUEENS,2
+2025-01-20,Commercial Disposal Complaint,BRONX,4
+2025-01-20,Street Sweeping Complaint,BRONX,3
+2025-01-20,Residential Disposal Complaint,STATEN ISLAND,13
+2025-01-20,Graffiti,STATEN ISLAND,1
+2025-01-20,Abandoned Bike,QUEENS,1
+2025-01-20,Lot Condition,QUEENS,1
+2025-01-20,Missed Collection,QUEENS,131
+2025-01-20,Missed Collection,STATEN ISLAND,87
+2025-01-20,Missed Collection,BRONX,38
+2025-01-20,Illegal Posting,BRONX,1
+2025-01-20,Litter Basket Complaint,BROOKLYN,2
+2025-01-20,Vendor Enforcement,STATEN ISLAND,1
+2025-01-20,Litter Basket Request,BRONX,2
+2025-01-20,Oil or Gas Spill,BROOKLYN,1
+2025-01-20,Highway Condition,STATEN ISLAND,3
+2025-01-20,Dumpster Complaint,STATEN ISLAND,3
+2025-01-27,Missed Collection,MANHATTAN,116
+2025-01-27,Residential Disposal Complaint,BROOKLYN,91
+2025-01-20,Institution Disposal Complaint,QUEENS,1
+2025-01-27,Vendor Enforcement,BRONX,23
+2025-01-27,Illegal Dumping,QUEENS,156
+2025-01-27,Snow or Ice,BROOKLYN,35
+2025-01-27,Dirty Condition,QUEENS,189
+2025-01-27,Dirty Condition,BRONX,151
+2025-01-27,Dirty Condition,BROOKLYN,357
+2025-01-27,Dirty Condition,STATEN ISLAND,79
+2025-01-27,Illegal Dumping,BROOKLYN,223
+2025-01-27,Residential Disposal Complaint,BRONX,29
+2025-01-27,Snow or Ice,STATEN ISLAND,12
+2025-01-27,Dirty Condition,MANHATTAN,200
+2025-01-27,Missed Collection,BROOKLYN,315
+2025-01-27,Missed Collection,QUEENS,236
+2025-01-27,Residential Disposal Complaint,MANHATTAN,135
+2025-01-27,Illegal Dumping,STATEN ISLAND,29
+2025-01-27,Missed Collection,STATEN ISLAND,187
+2025-01-27,Missed Collection,BRONX,88
+2025-01-27,Illegal Posting,BRONX,2
+2025-01-27,Street Sweeping Complaint,BROOKLYN,43
+2025-01-27,Dead Animal,BRONX,19
+2025-01-27,Street Sweeping Complaint,MANHATTAN,8
+2025-01-27,Obstruction,QUEENS,130
+2025-01-27,Obstruction,MANHATTAN,113
+2025-01-27,Commercial Disposal Complaint,QUEENS,15
+2025-01-27,Commercial Disposal Complaint,BROOKLYN,23
+2025-01-27,Derelict Vehicles,QUEENS,296
+2025-01-27,Derelict Vehicles,BRONX,189
+2025-01-27,Derelict Vehicles,BROOKLYN,271
+2025-01-27,Vendor Enforcement,BROOKLYN,51
+2025-01-27,Vendor Enforcement,MANHATTAN,213
+2025-01-27,Vendor Enforcement,QUEENS,57
+2025-01-27,Dead Animal,STATEN ISLAND,27
+2025-01-27,Dead Animal,BROOKLYN,83
+2025-01-27,Illegal Dumping,BRONX,102
+2025-01-27,Sanitation Worker or Vehicle Complaint,BROOKLYN,17
+2025-01-27,Sanitation Worker or Vehicle Complaint,BRONX,5
+2025-01-27,Graffiti,MANHATTAN,134
+2025-01-27,Graffiti,BROOKLYN,168
+2025-01-27,Snow or Ice,QUEENS,38
+2025-01-27,Illegal Dumping,MANHATTAN,70
+2025-01-27,Litter Basket Request,MANHATTAN,30
+2025-01-27,Litter Basket Request,BROOKLYN,22
+2025-01-27,Street Sweeping Complaint,QUEENS,11
+2025-01-27,Sanitation Worker or Vehicle Complaint,QUEENS,17
+2025-01-27,Derelict Vehicles,STATEN ISLAND,38
+2025-01-27,Lot Condition,BROOKLYN,7
+2025-01-27,Dumpster Complaint,MANHATTAN,18
+2025-01-27,Residential Disposal Complaint,QUEENS,50
+2025-01-27,Obstruction,BRONX,16
+2025-01-27,Dead Animal,MANHATTAN,6
+2025-01-27,Highway Condition,STATEN ISLAND,5
+2025-01-27,Obstruction,BROOKLYN,57
+2025-01-27,Litter Basket Complaint,QUEENS,3
+2025-01-27,Illegal Posting,BROOKLYN,33
+2025-01-27,Incorrect Data,MANHATTAN,1
+2025-01-27,Abandoned Bike,BROOKLYN,8
+2025-01-27,Litter Basket Complaint,BROOKLYN,6
+2025-01-27,Obstruction,STATEN ISLAND,20
+2025-01-27,Dead Animal,QUEENS,56
+2025-01-27,Litter Basket Request,BRONX,12
+2025-01-27,Commercial Disposal Complaint,MANHATTAN,5
+2025-01-27,Snow or Ice,MANHATTAN,8
+2025-01-27,Derelict Vehicles,MANHATTAN,54
+2025-01-27,Illegal Posting,STATEN ISLAND,11
+2025-01-27,Street Sweeping Complaint,BRONX,10
+2025-01-27,Graffiti,BRONX,28
+2025-01-27,Residential Disposal Complaint,STATEN ISLAND,17
+2025-01-27,Graffiti,QUEENS,28
+2025-01-27,Abandoned Bike,MANHATTAN,8
+2025-01-27,Recycling Basket Complaint,QUEENS,1
+2025-01-27,Dumpster Complaint,STATEN ISLAND,5
+2025-01-27,Sanitation Worker or Vehicle Complaint,MANHATTAN,12
+2025-01-27,Litter Basket Request,QUEENS,16
+2025-01-27,Lot Condition,QUEENS,8
+2025-01-27,Abandoned Bike,QUEENS,8
+2025-01-27,Illegal Posting,QUEENS,7
+2025-01-27,Snow or Ice,BRONX,11
+2025-01-27,Dumpster Complaint,BRONX,2
+2025-01-27,Graffiti,STATEN ISLAND,6
+2025-01-27,Highway Condition,BRONX,1
+2025-01-27,Lot Condition,MANHATTAN,2
+2025-01-20,Derelict Vehicles,Unspecified,1
+2025-01-27,Dumpster Complaint,BROOKLYN,10
+2025-01-27,Litter Basket Request,STATEN ISLAND,5
+2025-01-27,Abandoned Bike,BRONX,7
+2025-01-27,Litter Basket Complaint,BRONX,1
+2025-01-27,Derelict Vehicles,Unspecified,5
+2025-01-27,Dumpster Complaint,QUEENS,7
+2025-01-27,Highway Condition,QUEENS,3
+2025-01-27,Litter Basket Complaint,STATEN ISLAND,2
+2025-01-27,Illegal Dumping,Unspecified,1
+2025-01-27,Commercial Disposal Complaint,STATEN ISLAND,2
+2025-01-27,Lot Condition,STATEN ISLAND,2
+2025-01-27,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,3
+2025-01-27,Litter Basket Complaint,MANHATTAN,1
+2025-01-27,Lot Condition,BRONX,1
+2025-02-03,Missed Collection,QUEENS,197
+2025-02-03,Dirty Condition,MANHATTAN,193
+2025-02-03,Residential Disposal Complaint,STATEN ISLAND,14
+2025-02-03,Dirty Condition,BRONX,156
+2025-02-03,Obstruction,MANHATTAN,111
+2025-02-03,Obstruction,BRONX,22
+2025-02-03,Dumpster Complaint,QUEENS,6
+2025-02-03,Snow or Ice,BRONX,87
+2025-02-03,Snow or Ice,QUEENS,273
+2025-02-03,Abandoned Bike,BROOKLYN,16
+2025-02-03,Dirty Condition,BROOKLYN,291
+2025-02-03,Dirty Condition,QUEENS,228
+2025-02-03,Illegal Dumping,BROOKLYN,196
+2025-02-03,Illegal Dumping,STATEN ISLAND,39
+2025-02-03,Commercial Disposal Complaint,BROOKLYN,15
+2025-02-03,Illegal Dumping,MANHATTAN,65
+2025-02-03,Missed Collection,MANHATTAN,101
+2025-02-03,Missed Collection,BRONX,85
+2025-02-03,Missed Collection,STATEN ISLAND,175
+2025-02-03,Residential Disposal Complaint,MANHATTAN,101
+2025-02-03,Residential Disposal Complaint,BROOKLYN,73
+2025-02-03,Graffiti,MANHATTAN,117
+2025-02-03,Street Sweeping Complaint,QUEENS,18
+2025-02-03,Dirty Condition,STATEN ISLAND,79
+2025-02-03,Residential Disposal Complaint,QUEENS,53
+2025-02-03,Obstruction,STATEN ISLAND,19
+2025-02-03,Sanitation Worker or Vehicle Complaint,BROOKLYN,20
+2025-02-03,Graffiti,BROOKLYN,158
+2025-02-03,Graffiti,QUEENS,46
+2025-02-03,Derelict Vehicles,BROOKLYN,242
+2025-02-03,Derelict Vehicles,QUEENS,297
+2025-02-03,Vendor Enforcement,MANHATTAN,256
+2025-02-03,Vendor Enforcement,QUEENS,38
+2025-02-03,Vendor Enforcement,BRONX,12
+2025-02-03,Illegal Dumping,QUEENS,183
+2025-02-03,Litter Basket Request,QUEENS,16
+2025-02-03,Obstruction,QUEENS,97
+2025-02-03,Street Sweeping Complaint,BROOKLYN,52
+2025-02-03,Graffiti,STATEN ISLAND,13
+2025-02-03,Abandoned Bike,BRONX,4
+2025-02-03,Snow or Ice,STATEN ISLAND,108
+2025-02-03,Street Sweeping Complaint,MANHATTAN,10
+2025-02-03,Residential Disposal Complaint,BRONX,18
+2025-02-03,Commercial Disposal Complaint,MANHATTAN,9
+2025-02-03,Derelict Vehicles,BRONX,185
+2025-02-03,Snow or Ice,MANHATTAN,170
+2025-02-03,Vendor Enforcement,BROOKLYN,49
+2025-02-03,Dead Animal,BROOKLYN,54
+2025-02-03,Street Sweeping Complaint,BRONX,7
+2025-02-03,Illegal Posting,STATEN ISLAND,41
+2025-02-03,Obstruction,BROOKLYN,57
+2025-02-03,Illegal Dumping,BRONX,104
+2025-02-03,Illegal Posting,QUEENS,28
+2025-02-03,Missed Collection,BROOKLYN,218
+2025-02-03,Commercial Disposal Complaint,QUEENS,9
+2025-02-03,Dead Animal,QUEENS,44
+2025-02-03,Dumpster Complaint,STATEN ISLAND,5
+2025-02-03,Litter Basket Complaint,BROOKLYN,3
+2025-02-03,Dumpster Complaint,BROOKLYN,12
+2025-02-03,Lot Condition,QUEENS,4
+2025-02-03,Snow or Ice,BROOKLYN,438
+2025-02-03,Litter Basket Request,BROOKLYN,26
+2025-02-03,Dumpster Complaint,MANHATTAN,5
+2025-02-03,Illegal Posting,BROOKLYN,31
+2025-02-03,Graffiti,BRONX,29
+2025-02-03,Derelict Vehicles,MANHATTAN,36
+2025-02-03,Sanitation Worker or Vehicle Complaint,BRONX,9
+2025-02-03,Litter Basket Request,MANHATTAN,19
+2025-02-03,Dead Animal,BRONX,12
+2025-02-03,Dead Animal,STATEN ISLAND,27
+2025-02-03,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,9
+2025-02-03,Sanitation Worker or Vehicle Complaint,QUEENS,13
+2025-02-03,Derelict Vehicles,STATEN ISLAND,31
+2025-02-03,Dead Animal,MANHATTAN,7
+2025-02-03,Litter Basket Request,STATEN ISLAND,1
+2025-02-03,Lot Condition,MANHATTAN,2
+2025-02-03,Dumpster Complaint,BRONX,4
+2025-02-03,Lot Condition,BROOKLYN,2
+2025-02-03,Illegal Posting,BRONX,6
+2025-02-03,Sanitation Worker or Vehicle Complaint,MANHATTAN,11
+2025-02-03,Highway Condition,QUEENS,5
+2025-02-03,Derelict Vehicles,Unspecified,3
+2025-02-03,Litter Basket Request,BRONX,2
+2025-02-03,Litter Basket Complaint,BRONX,1
+2025-02-03,Institution Disposal Complaint,QUEENS,1
+2025-02-03,Abandoned Bike,MANHATTAN,1
+2025-02-03,Litter Basket Complaint,MANHATTAN,2
+2025-02-03,Litter Basket Complaint,STATEN ISLAND,3
+2025-02-03,Commercial Disposal Complaint,BRONX,1
+2025-02-03,Lot Condition,BRONX,2
+2025-02-03,Highway Condition,STATEN ISLAND,13
+2025-02-03,Abandoned Bike,QUEENS,1
+2025-02-03,Highway Condition,BROOKLYN,1
+2025-02-03,Lot Condition,STATEN ISLAND,1
+2025-02-10,Snow or Ice,QUEENS,434
+2025-02-10,Snow or Ice,BROOKLYN,692
+2025-02-10,Graffiti,BROOKLYN,186
+2025-02-10,Snow or Ice,BRONX,150
+2025-02-10,Highway Condition,QUEENS,4
+2025-02-10,Snow or Ice,MANHATTAN,164
+2025-02-10,Illegal Dumping,MANHATTAN,62
+2025-02-10,Snow or Ice,STATEN ISLAND,117
+2025-02-10,Dirty Condition,BROOKLYN,200
+2025-02-10,Dirty Condition,MANHATTAN,190
+2025-02-10,Dirty Condition,BRONX,96
+2025-02-10,Illegal Dumping,QUEENS,120
+2025-02-10,Obstruction,QUEENS,83
+2025-02-10,Residential Disposal Complaint,MANHATTAN,109
+2025-02-10,Illegal Dumping,BROOKLYN,156
+2025-02-10,Dirty Condition,QUEENS,117
+2025-02-10,Obstruction,MANHATTAN,143
+2025-02-10,Dead Animal,MANHATTAN,19
+2025-02-10,Dumpster Complaint,QUEENS,3
+2025-02-10,Residential Disposal Complaint,BRONX,23
+2025-02-10,Residential Disposal Complaint,STATEN ISLAND,27
+2025-02-10,Commercial Disposal Complaint,MANHATTAN,11
+2025-02-10,Derelict Vehicles,BRONX,176
+2025-02-10,Derelict Vehicles,BROOKLYN,186
+2025-02-10,Derelict Vehicles,STATEN ISLAND,22
+2025-02-10,Derelict Vehicles,QUEENS,243
+2025-02-10,Vendor Enforcement,MANHATTAN,259
+2025-02-10,Dead Animal,BROOKLYN,38
+2025-02-10,Sanitation Worker or Vehicle Complaint,MANHATTAN,12
+2025-02-10,Residential Disposal Complaint,BROOKLYN,70
+2025-02-10,Vendor Enforcement,QUEENS,49
+2025-02-10,Dumpster Complaint,BROOKLYN,7
+2025-02-10,Illegal Dumping,BRONX,86
+2025-02-10,Illegal Posting,STATEN ISLAND,50
+2025-02-10,Vendor Enforcement,BROOKLYN,29
+2025-02-10,Graffiti,QUEENS,48
+2025-02-10,Graffiti,MANHATTAN,144
+2025-02-10,Illegal Dumping,STATEN ISLAND,19
+2025-02-10,Residential Disposal Complaint,QUEENS,46
+2025-02-10,Litter Basket Request,MANHATTAN,25
+2025-02-10,Illegal Posting,QUEENS,16
+2025-02-10,Obstruction,BROOKLYN,69
+2025-02-10,Obstruction,STATEN ISLAND,13
+2025-02-10,Commercial Disposal Complaint,BROOKLYN,13
+2025-02-10,Sanitation Worker or Vehicle Complaint,QUEENS,23
+2025-02-10,Dumpster Complaint,STATEN ISLAND,3
+2025-02-10,Dumpster Complaint,MANHATTAN,8
+2025-02-10,Abandoned Bike,BROOKLYN,17
+2025-02-10,Dead Animal,BRONX,16
+2025-02-10,Dead Animal,STATEN ISLAND,20
+2025-02-10,Vendor Enforcement,BRONX,16
+2025-02-10,Dead Animal,QUEENS,35
+2025-02-10,Commercial Disposal Complaint,BRONX,3
+2025-02-10,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,14
+2025-02-10,Graffiti,BRONX,27
+2025-02-10,Dirty Condition,STATEN ISLAND,54
+2025-02-10,Commercial Disposal Complaint,QUEENS,7
+2025-02-10,Obstruction,BRONX,23
+2025-02-10,Litter Basket Request,BROOKLYN,18
+2025-02-10,Lot Condition,QUEENS,2
+2025-02-10,Sanitation Worker or Vehicle Complaint,BROOKLYN,22
+2025-02-10,Sanitation Worker or Vehicle Complaint,BRONX,5
+2025-02-10,Highway Condition,STATEN ISLAND,5
+2025-02-10,Highway Condition,BROOKLYN,4
+2025-02-10,Illegal Posting,BROOKLYN,27
+2025-02-10,Lot Condition,BROOKLYN,2
+2025-02-10,Highway Condition,MANHATTAN,1
+2025-02-10,Illegal Posting,MANHATTAN,2
+2025-02-10,Litter Basket Complaint,QUEENS,4
+2025-02-10,Highway Condition,BRONX,2
+2025-02-10,Litter Basket Complaint,BROOKLYN,1
+2025-02-10,Litter Basket Request,QUEENS,11
+2025-02-10,Recycling Basket Complaint,BROOKLYN,1
+2025-02-10,Derelict Vehicles,MANHATTAN,43
+2025-02-10,Abandoned Bike,MANHATTAN,10
+2025-02-10,Illegal Posting,BRONX,1
+2025-02-10,Dumpster Complaint,BRONX,2
+2025-02-10,Graffiti,STATEN ISLAND,9
+2025-02-10,Graffiti,Unspecified,1
+2025-02-10,Residential Disposal Complaint,Unspecified,1
+2025-02-10,Vendor Enforcement,STATEN ISLAND,2
+2025-02-10,Derelict Vehicles,Unspecified,3
+2025-02-10,Litter Basket Request,BRONX,2
+2025-02-10,Litter Basket Complaint,STATEN ISLAND,1
+2025-02-10,Abandoned Bike,QUEENS,1
+2025-02-17,Obstruction,BROOKLYN,62
+2025-02-10,Lot Condition,MANHATTAN,1
+2025-02-17,Residential Disposal Complaint,BROOKLYN,95
+2025-02-17,Dirty Condition,BRONX,151
+2025-02-17,Dirty Condition,MANHATTAN,196
+2025-02-17,Highway Condition,QUEENS,7
+2025-02-17,Dirty Condition,BROOKLYN,377
+2025-02-17,Dirty Condition,QUEENS,200
+2025-02-17,Obstruction,QUEENS,58
+2025-02-17,Obstruction,MANHATTAN,119
+2025-02-17,Illegal Dumping,BRONX,95
+2025-02-17,Illegal Dumping,QUEENS,149
+2025-02-17,Illegal Dumping,BROOKLYN,218
+2025-02-17,Residential Disposal Complaint,MANHATTAN,90
+2025-02-17,Illegal Dumping,MANHATTAN,56
+2025-02-17,Dead Animal,STATEN ISLAND,30
+2025-02-17,Illegal Posting,BROOKLYN,31
+2025-02-17,Sanitation Worker or Vehicle Complaint,MANHATTAN,11
+2025-02-17,Residential Disposal Complaint,QUEENS,57
+2025-02-17,Derelict Vehicles,BROOKLYN,252
+2025-02-17,Vendor Enforcement,BRONX,8
+2025-02-17,Vendor Enforcement,QUEENS,36
+2025-02-17,Dirty Condition,STATEN ISLAND,63
+2025-02-17,Dumpster Complaint,BRONX,4
+2025-02-17,Sanitation Worker or Vehicle Complaint,BRONX,6
+2025-02-17,Illegal Posting,STATEN ISLAND,44
+2025-02-17,Sanitation Worker or Vehicle Complaint,BROOKLYN,20
+2025-02-17,Snow or Ice,STATEN ISLAND,49
+2025-02-17,Snow or Ice,BROOKLYN,52
+2025-02-17,Graffiti,MANHATTAN,108
+2025-02-17,Graffiti,QUEENS,51
+2025-02-17,Graffiti,BROOKLYN,138
+2025-02-17,Vendor Enforcement,MANHATTAN,202
+2025-02-17,Illegal Posting,QUEENS,40
+2025-02-17,Dead Animal,QUEENS,43
+2025-02-17,Lot Condition,BROOKLYN,5
+2025-02-17,Residential Disposal Complaint,STATEN ISLAND,32
+2025-02-17,Dead Animal,BROOKLYN,48
+2025-02-17,Snow or Ice,QUEENS,35
+2025-02-17,Residential Disposal Complaint,BRONX,22
+2025-02-17,Litter Basket Request,BROOKLYN,21
+2025-02-17,Litter Basket Complaint,BROOKLYN,1
+2025-02-17,Illegal Dumping,STATEN ISLAND,44
+2025-02-17,Graffiti,BRONX,14
+2025-02-17,Commercial Disposal Complaint,BROOKLYN,20
+2025-02-17,Derelict Vehicles,QUEENS,271
+2025-02-17,Abandoned Bike,BROOKLYN,17
+2025-02-17,Dead Animal,MANHATTAN,15
+2025-02-17,Illegal Posting,MANHATTAN,3
+2025-02-17,Vendor Enforcement,BROOKLYN,29
+2025-02-17,Commercial Disposal Complaint,QUEENS,3
+2025-02-17,Obstruction,STATEN ISLAND,14
+2025-02-17,Derelict Vehicles,BRONX,171
+2025-02-17,Snow or Ice,BRONX,15
+2025-02-17,Litter Basket Request,QUEENS,18
+2025-02-17,Highway Condition,MANHATTAN,4
+2025-02-17,Dead Animal,BRONX,14
+2025-02-17,Litter Basket Request,MANHATTAN,26
+2025-02-17,Dumpster Complaint,BROOKLYN,13
+2025-02-17,Dumpster Complaint,MANHATTAN,9
+2025-02-17,Snow or Ice,MANHATTAN,8
+2025-02-17,Litter Basket Request,STATEN ISLAND,1
+2025-02-17,Sanitation Worker or Vehicle Complaint,QUEENS,12
+2025-02-17,Street Sweeping Complaint,MANHATTAN,13
+2025-02-17,Graffiti,STATEN ISLAND,13
+2025-02-17,Street Sweeping Complaint,BROOKLYN,50
+2025-02-17,Derelict Vehicles,MANHATTAN,55
+2025-02-17,Lot Condition,MANHATTAN,2
+2025-02-17,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,9
+2025-02-17,Lot Condition,STATEN ISLAND,2
+2025-02-17,Commercial Disposal Complaint,BRONX,4
+2025-02-17,Commercial Disposal Complaint,MANHATTAN,10
+2025-02-17,Abandoned Bike,MANHATTAN,7
+2025-02-17,Street Sweeping Complaint,BRONX,16
+2025-02-17,Street Sweeping Complaint,QUEENS,11
+2025-02-17,Litter Basket Complaint,QUEENS,2
+2025-02-17,Abandoned Bike,QUEENS,1
+2025-02-17,Derelict Vehicles,STATEN ISLAND,37
+2025-02-17,Derelict Vehicles,Unspecified,1
+2025-02-17,Litter Basket Request,BRONX,2
+2025-02-17,Dumpster Complaint,STATEN ISLAND,5
+2025-02-17,Dumpster Complaint,QUEENS,6
+2025-02-17,Commercial Disposal Complaint,STATEN ISLAND,4
+2025-02-17,Highway Condition,STATEN ISLAND,3
+2025-02-17,Highway Condition,BROOKLYN,1
+2025-02-17,Obstruction,BRONX,16
+2025-02-17,Lot Condition,QUEENS,4
+2025-02-17,Missed Collection,STATEN ISLAND,55
+2025-02-17,Lot Condition,BRONX,2
+2025-02-17,Recycling Basket Complaint,BROOKLYN,3
+2025-02-17,Street Sweeping Complaint,STATEN ISLAND,1
+2025-02-17,Missed Collection,BROOKLYN,118
+2025-02-17,Missed Collection,QUEENS,100
+2025-02-17,Missed Collection,BRONX,34
+2025-02-17,Missed Collection,MANHATTAN,41
+2025-02-17,Illegal Posting,BRONX,1
+2025-02-17,Incorrect Data,STATEN ISLAND,1
+2025-02-17,Highway Condition,BRONX,1
+2025-02-17,Litter Basket Complaint,MANHATTAN,1
+2025-02-24,Dead Animal,MANHATTAN,11
+2025-02-24,Dirty Condition,BROOKLYN,392
+2025-02-24,Obstruction,BRONX,31
+2025-02-24,Residential Disposal Complaint,QUEENS,61
+2025-02-24,Dirty Condition,MANHATTAN,263
+2025-02-24,Dirty Condition,QUEENS,288
+2025-02-24,Illegal Dumping,BRONX,151
+2025-02-24,Illegal Dumping,BROOKLYN,261
+2025-02-24,Illegal Dumping,MANHATTAN,81
+2025-02-24,Dirty Condition,STATEN ISLAND,96
+2025-02-24,Illegal Dumping,QUEENS,202
+2025-02-24,Missed Collection,BROOKLYN,303
+2025-02-24,Missed Collection,STATEN ISLAND,152
+2025-02-24,Residential Disposal Complaint,BROOKLYN,87
+2025-02-24,Residential Disposal Complaint,MANHATTAN,82
+2025-02-24,Missed Collection,QUEENS,235
+2025-02-24,Sanitation Worker or Vehicle Complaint,QUEENS,10
+2025-02-24,Dead Animal,QUEENS,59
+2025-02-24,Street Sweeping Complaint,BRONX,20
+2025-02-24,Obstruction,QUEENS,103
+2025-02-24,Street Sweeping Complaint,BROOKLYN,74
+2025-02-24,Graffiti,BROOKLYN,154
+2025-02-24,Graffiti,MANHATTAN,127
+2025-02-24,Obstruction,MANHATTAN,131
+2025-02-24,Graffiti,STATEN ISLAND,19
+2025-02-24,Obstruction,BROOKLYN,75
+2025-02-24,Commercial Disposal Complaint,BRONX,6
+2025-02-24,Vendor Enforcement,MANHATTAN,255
+2025-02-24,Vendor Enforcement,QUEENS,51
+2025-02-24,Dead Animal,BROOKLYN,63
+2025-02-24,Illegal Posting,STATEN ISLAND,15
+2025-02-24,Sanitation Worker or Vehicle Complaint,BROOKLYN,16
+2025-02-24,Vendor Enforcement,BRONX,35
+2025-02-24,Dumpster Complaint,BROOKLYN,13
+2025-02-24,Illegal Posting,BROOKLYN,32
+2025-02-24,Residential Disposal Complaint,STATEN ISLAND,19
+2025-02-24,Derelict Vehicles,BRONX,230
+2025-02-24,Derelict Vehicles,BROOKLYN,334
+2025-02-24,Derelict Vehicles,STATEN ISLAND,42
+2025-02-24,Derelict Vehicles,QUEENS,297
+2025-02-24,Derelict Vehicles,Unspecified,3
+2025-02-24,Abandoned Bike,QUEENS,9
+2025-02-24,Abandoned Bike,BROOKLYN,29
+2025-02-24,Dirty Condition,BRONX,214
+2025-02-24,Missed Collection,BRONX,77
+2025-02-24,Missed Collection,MANHATTAN,123
+2025-02-24,Dead Animal,STATEN ISLAND,27
+2025-02-24,Litter Basket Complaint,QUEENS,5
+2025-02-24,Street Sweeping Complaint,QUEENS,14
+2025-02-24,Dead Animal,BRONX,15
+2025-02-24,Sanitation Worker or Vehicle Complaint,MANHATTAN,13
+2025-02-24,Vendor Enforcement,BROOKLYN,50
+2025-02-24,Snow or Ice,BROOKLYN,3
+2025-02-24,Highway Condition,STATEN ISLAND,8
+2025-02-24,Derelict Vehicles,MANHATTAN,73
+2025-02-24,Street Sweeping Complaint,MANHATTAN,17
+2025-02-24,Graffiti,QUEENS,45
+2025-02-24,Illegal Dumping,STATEN ISLAND,40
+2025-02-24,Litter Basket Request,QUEENS,18
+2025-02-24,Dumpster Complaint,MANHATTAN,13
+2025-02-24,Dumpster Complaint,BRONX,5
+2025-02-24,Lot Condition,STATEN ISLAND,3
+2025-02-24,Commercial Disposal Complaint,MANHATTAN,10
+2025-02-24,Abandoned Bike,MANHATTAN,7
+2025-02-24,Litter Basket Request,BROOKLYN,23
+2025-02-24,Obstruction,STATEN ISLAND,19
+2025-02-24,Commercial Disposal Complaint,QUEENS,15
+2025-02-24,Lot Condition,QUEENS,5
+2025-02-24,Commercial Disposal Complaint,BROOKLYN,25
+2025-02-24,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,6
+2025-02-24,Litter Basket Request,MANHATTAN,26
+2025-02-24,Graffiti,BRONX,18
+2025-02-24,Residential Disposal Complaint,BRONX,26
+2025-02-24,Dumpster Complaint,QUEENS,9
+2025-02-24,Highway Condition,BROOKLYN,5
+2025-02-24,Highway Condition,QUEENS,10
+2025-02-24,Litter Basket Complaint,BROOKLYN,7
+2025-02-24,Lot Condition,BRONX,5
+2025-02-24,Illegal Posting,QUEENS,12
+2025-02-24,Litter Basket Request,STATEN ISLAND,1
+2025-02-24,Litter Basket Complaint,MANHATTAN,8
+2025-02-24,Lot Condition,BROOKLYN,4
+2025-02-24,Litter Basket Request,BRONX,3
+2025-02-24,Dirty Condition,Unspecified,1
+2025-02-24,Sanitation Worker or Vehicle Complaint,BRONX,6
+2025-02-24,Lot Condition,MANHATTAN,2
+2025-02-24,Litter Basket Complaint,BRONX,3
+2025-02-24,Recycling Basket Complaint,STATEN ISLAND,1
+2025-02-24,Highway Condition,BRONX,1
+2025-02-24,Highway Condition,MANHATTAN,2
+2025-02-24,Institution Disposal Complaint,BROOKLYN,2
+2025-02-24,Illegal Posting,MANHATTAN,1
+2025-02-24,Litter Basket Complaint,STATEN ISLAND,3
+2025-02-24,Institution Disposal Complaint,QUEENS,1
+2025-02-24,Vendor Enforcement,STATEN ISLAND,2
+2025-02-24,Snow or Ice,MANHATTAN,1
+2025-03-03,Litter Basket Request,BROOKLYN,24
+2025-03-03,Sanitation Worker or Vehicle Complaint,BROOKLYN,14
+2025-02-24,Snow or Ice,QUEENS,1
+2025-02-24,Snow or Ice,BRONX,1
+2025-02-24,Illegal Posting,BRONX,1
+2025-03-03,Dirty Condition,BROOKLYN,350
+2025-03-03,Dirty Condition,QUEENS,264
+2025-03-03,Vendor Enforcement,BROOKLYN,49
+2025-03-03,Dirty Condition,BRONX,175
+2025-03-03,Dirty Condition,MANHATTAN,229
+2025-03-03,Obstruction,BROOKLYN,78
+2025-03-03,Illegal Dumping,QUEENS,236
+2025-03-03,Illegal Dumping,BRONX,111
+2025-03-03,Highway Condition,STATEN ISLAND,8
+2025-03-03,Commercial Disposal Complaint,BROOKLYN,20
+2025-03-03,Missed Collection,BRONX,109
+2025-03-03,Illegal Dumping,BROOKLYN,247
+2025-03-03,Missed Collection,MANHATTAN,102
+2025-03-03,Missed Collection,QUEENS,237
+2025-03-03,Litter Basket Request,QUEENS,19
+2025-03-03,Missed Collection,BROOKLYN,283
+2025-03-03,Missed Collection,STATEN ISLAND,127
+2025-03-03,Obstruction,MANHATTAN,99
+2025-03-03,Residential Disposal Complaint,MANHATTAN,85
+2025-03-03,Sanitation Worker or Vehicle Complaint,MANHATTAN,13
+2025-03-03,Residential Disposal Complaint,BROOKLYN,92
+2025-03-03,Obstruction,QUEENS,106
+2025-03-03,Street Sweeping Complaint,BROOKLYN,67
+2025-03-03,Dead Animal,QUEENS,78
+2025-03-03,Dirty Condition,STATEN ISLAND,78
+2025-03-03,Residential Disposal Complaint,QUEENS,63
+2025-03-03,Street Sweeping Complaint,BRONX,25
+2025-03-03,Graffiti,BROOKLYN,227
+2025-03-03,Street Sweeping Complaint,MANHATTAN,20
+2025-03-03,Residential Disposal Complaint,BRONX,39
+2025-03-03,Litter Basket Request,MANHATTAN,27
+2025-03-03,Graffiti,QUEENS,35
+2025-03-03,Graffiti,BRONX,28
+2025-03-03,Derelict Vehicles,QUEENS,303
+2025-03-03,Derelict Vehicles,BRONX,205
+2025-03-03,Illegal Dumping,MANHATTAN,83
+2025-03-03,Vendor Enforcement,MANHATTAN,244
+2025-03-03,Dead Animal,BRONX,31
+2025-03-03,Dead Animal,BROOKLYN,70
+2025-03-03,Illegal Posting,BROOKLYN,39
+2025-03-03,Sanitation Worker or Vehicle Complaint,QUEENS,21
+2025-03-03,Illegal Posting,STATEN ISLAND,34
+2025-03-03,Lot Condition,QUEENS,6
+2025-03-03,Snow or Ice,QUEENS,5
+2025-03-03,Residential Disposal Complaint,STATEN ISLAND,21
+2025-03-03,Derelict Vehicles,BROOKLYN,285
+2025-03-03,Commercial Disposal Complaint,MANHATTAN,11
+2025-03-03,Street Sweeping Complaint,QUEENS,18
+2025-03-03,Obstruction,BRONX,38
+2025-03-03,Vendor Enforcement,BRONX,21
+2025-03-03,Vendor Enforcement,QUEENS,52
+2025-03-03,Vendor Enforcement,STATEN ISLAND,2
+2025-03-03,Dead Animal,STATEN ISLAND,29
+2025-03-03,Abandoned Bike,MANHATTAN,11
+2025-03-03,Illegal Dumping,STATEN ISLAND,34
+2025-03-03,Graffiti,STATEN ISLAND,18
+2025-03-03,Derelict Vehicles,MANHATTAN,50
+2025-03-03,Commercial Disposal Complaint,BRONX,5
+2025-03-03,Lot Condition,MANHATTAN,3
+2025-03-03,Graffiti,MANHATTAN,51
+2025-03-03,Abandoned Bike,QUEENS,9
+2025-03-03,Abandoned Bike,BROOKLYN,30
+2025-03-03,Litter Basket Complaint,MANHATTAN,3
+2025-03-03,Lot Condition,BROOKLYN,7
+2025-03-03,Highway Condition,QUEENS,13
+2025-03-03,Litter Basket Complaint,STATEN ISLAND,1
+2025-03-03,Obstruction,STATEN ISLAND,20
+2025-03-03,Litter Basket Request,STATEN ISLAND,3
+2025-03-03,Lot Condition,STATEN ISLAND,1
+2025-03-03,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,10
+2025-03-03,Dead Animal,MANHATTAN,21
+2025-03-03,Derelict Vehicles,STATEN ISLAND,25
+2025-03-03,Snow or Ice,BROOKLYN,1
+2025-03-03,Highway Condition,BRONX,1
+2025-03-03,Dumpster Complaint,BROOKLYN,8
+2025-03-03,Litter Basket Complaint,BROOKLYN,6
+2025-03-03,Illegal Posting,QUEENS,19
+2025-03-03,Dumpster Complaint,MANHATTAN,8
+2025-03-03,Litter Basket Complaint,QUEENS,4
+2025-03-03,Recycling Basket Complaint,STATEN ISLAND,1
+2025-03-03,Dumpster Complaint,STATEN ISLAND,1
+2025-03-03,Dumpster Complaint,QUEENS,3
+2025-03-03,Illegal Posting,MANHATTAN,4
+2025-03-03,Commercial Disposal Complaint,QUEENS,4
+2025-03-03,Litter Basket Request,BRONX,2
+2025-03-03,Residential Disposal Complaint,Unspecified,1
+2025-03-03,Lot Condition,BRONX,2
+2025-03-03,Dumpster Complaint,BRONX,2
+2025-03-03,Illegal Posting,BRONX,2
+2025-03-03,Sanitation Worker or Vehicle Complaint,BRONX,1
+2025-03-03,Recycling Basket Complaint,BRONX,1
+2025-03-03,Litter Basket Complaint,BRONX,2
+2025-03-03,Abandoned Bike,BRONX,1
+2025-03-03,Incorrect Data,STATEN ISLAND,1
+2025-03-03,Street Sweeping Complaint,STATEN ISLAND,1
+2025-03-10,Missed Collection,QUEENS,197
+2025-03-03,Snow or Ice,STATEN ISLAND,1
+2025-03-10,Dirty Condition,MANHATTAN,218
+2025-03-10,Dirty Condition,QUEENS,243
+2025-03-10,Obstruction,QUEENS,123
+2025-03-10,Dirty Condition,STATEN ISLAND,126
+2025-03-03,Highway Condition,BROOKLYN,1
+2025-03-10,Derelict Vehicles,QUEENS,317
+2025-03-10,Illegal Dumping,QUEENS,297
+2025-03-10,Illegal Posting,STATEN ISLAND,17
+2025-03-10,Dirty Condition,BROOKLYN,344
+2025-03-10,Obstruction,BROOKLYN,86
+2025-03-10,Dirty Condition,BRONX,161
+2025-03-10,Obstruction,MANHATTAN,92
+2025-03-10,Illegal Dumping,BROOKLYN,287
+2025-03-10,Commercial Disposal Complaint,MANHATTAN,11
+2025-03-10,Illegal Dumping,MANHATTAN,75
+2025-03-10,Illegal Dumping,STATEN ISLAND,47
+2025-03-10,Illegal Dumping,BRONX,154
+2025-03-10,Litter Basket Request,BROOKLYN,22
+2025-03-10,Missed Collection,BROOKLYN,293
+2025-03-10,Residential Disposal Complaint,BROOKLYN,78
+2025-03-10,Residential Disposal Complaint,MANHATTAN,92
+2025-03-10,Missed Collection,BRONX,81
+2025-03-10,Residential Disposal Complaint,STATEN ISLAND,18
+2025-03-10,Graffiti,MANHATTAN,84
+2025-03-10,Street Sweeping Complaint,BROOKLYN,52
+2025-03-10,Street Sweeping Complaint,STATEN ISLAND,6
+2025-03-10,Street Sweeping Complaint,QUEENS,11
+2025-03-10,Street Sweeping Complaint,BRONX,13
+2025-03-10,Sanitation Worker or Vehicle Complaint,BRONX,5
+2025-03-10,Sanitation Worker or Vehicle Complaint,QUEENS,19
+2025-03-10,Derelict Vehicles,BRONX,212
+2025-03-10,Derelict Vehicles,BROOKLYN,265
+2025-03-10,Vendor Enforcement,MANHATTAN,282
+2025-03-10,Litter Basket Complaint,QUEENS,2
+2025-03-10,Residential Disposal Complaint,QUEENS,52
+2025-03-10,Vendor Enforcement,BROOKLYN,74
+2025-03-10,Vendor Enforcement,QUEENS,94
+2025-03-10,Dead Animal,QUEENS,57
+2025-03-10,Commercial Disposal Complaint,QUEENS,9
+2025-03-10,Highway Condition,QUEENS,9
+2025-03-10,Graffiti,BROOKLYN,172
+2025-03-10,Highway Condition,BROOKLYN,4
+2025-03-10,Graffiti,QUEENS,62
+2025-03-10,Illegal Posting,QUEENS,27
+2025-03-10,Sanitation Worker or Vehicle Complaint,BROOKLYN,12
+2025-03-10,Dead Animal,MANHATTAN,16
+2025-03-10,Dead Animal,STATEN ISLAND,33
+2025-03-10,Missed Collection,MANHATTAN,98
+2025-03-10,Abandoned Bike,BROOKLYN,26
+2025-03-10,Residential Disposal Complaint,BRONX,21
+2025-03-10,Lot Condition,BROOKLYN,8
+2025-03-10,Litter Basket Request,MANHATTAN,17
+2025-03-10,Highway Condition,BRONX,2
+2025-03-10,Graffiti,STATEN ISLAND,13
+2025-03-10,Dumpster Complaint,BROOKLYN,10
+2025-03-10,Vendor Enforcement,BRONX,21
+2025-03-10,Dead Animal,BROOKLYN,88
+2025-03-10,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,7
+2025-03-10,Graffiti,BRONX,25
+2025-03-10,Litter Basket Request,QUEENS,13
+2025-03-10,Abandoned Bike,MANHATTAN,12
+2025-03-10,Missed Collection,STATEN ISLAND,160
+2025-03-10,Obstruction,STATEN ISLAND,20
+2025-03-10,Street Sweeping Complaint,MANHATTAN,20
+2025-03-10,Dumpster Complaint,MANHATTAN,15
+2025-03-10,Litter Basket Request,STATEN ISLAND,4
+2025-03-10,Lot Condition,BRONX,6
+2025-03-10,Dead Animal,BRONX,20
+2025-03-10,Obstruction,BRONX,21
+2025-03-10,Commercial Disposal Complaint,BROOKLYN,21
+2025-03-03,Derelict Vehicles,Unspecified,1
+2025-03-10,Dead Animal,Unspecified,1
+2025-03-10,Derelict Vehicles,MANHATTAN,67
+2025-03-10,Litter Basket Complaint,STATEN ISLAND,1
+2025-03-10,Litter Basket Complaint,BROOKLYN,9
+2025-03-10,Dumpster Complaint,QUEENS,7
+2025-03-10,Sanitation Worker or Vehicle Complaint,MANHATTAN,9
+2025-03-10,Abandoned Bike,QUEENS,6
+2025-03-10,Illegal Posting,MANHATTAN,3
+2025-03-10,Litter Basket Request,BRONX,6
+2025-03-10,Illegal Posting,BROOKLYN,39
+2025-03-10,Derelict Vehicles,STATEN ISLAND,32
+2025-03-10,Litter Basket Complaint,MANHATTAN,6
+2025-03-10,Lot Condition,STATEN ISLAND,2
+2025-03-10,Highway Condition,MANHATTAN,4
+2025-03-10,Litter Basket Complaint,BRONX,1
+2025-03-10,Vendor Enforcement,STATEN ISLAND,1
+2025-03-10,Lot Condition,QUEENS,5
+2025-03-10,Highway Condition,STATEN ISLAND,10
+2025-03-10,Abandoned Bike,BRONX,1
+2025-03-10,Dumpster Complaint,BRONX,2
+2025-03-10,Commercial Disposal Complaint,BRONX,2
+2025-03-10,Commercial Disposal Complaint,STATEN ISLAND,2
+2025-03-10,Lot Condition,MANHATTAN,2
+2025-03-17,Dirty Condition,BRONX,178
+2025-03-17,Obstruction,BROOKLYN,74
+2025-03-17,Residential Disposal Complaint,BROOKLYN,73
+2025-03-10,Illegal Posting,BRONX,1
+2025-03-17,Dirty Condition,BROOKLYN,353
+2025-03-10,Dumpster Complaint,STATEN ISLAND,2
+2025-03-17,Dirty Condition,QUEENS,260
+2025-03-17,Vendor Enforcement,MANHATTAN,305
+2025-03-17,Dead Animal,BROOKLYN,84
+2025-03-17,Residential Disposal Complaint,QUEENS,59
+2025-03-17,Commercial Disposal Complaint,BROOKLYN,17
+2025-03-17,Abandoned Bike,BROOKLYN,20
+2025-03-17,Obstruction,MANHATTAN,73
+2025-03-17,Abandoned Bike,MANHATTAN,27
+2025-03-17,Dirty Condition,MANHATTAN,231
+2025-03-17,Dumpster Complaint,STATEN ISLAND,3
+2025-03-17,Obstruction,QUEENS,112
+2025-03-17,Obstruction,STATEN ISLAND,27
+2025-03-17,Dumpster Complaint,MANHATTAN,11
+2025-03-17,Illegal Dumping,BROOKLYN,251
+2025-03-17,Illegal Dumping,MANHATTAN,67
+2025-03-17,Illegal Dumping,STATEN ISLAND,41
+2025-03-17,Derelict Vehicles,QUEENS,292
+2025-03-17,Illegal Dumping,QUEENS,293
+2025-03-17,Derelict Vehicles,BRONX,245
+2025-03-17,Missed Collection,QUEENS,185
+2025-03-17,Missed Collection,BRONX,114
+2025-03-17,Residential Disposal Complaint,MANHATTAN,76
+2025-03-17,Vendor Enforcement,QUEENS,72
+2025-03-17,Sanitation Worker or Vehicle Complaint,QUEENS,14
+2025-03-17,Illegal Posting,QUEENS,44
+2025-03-17,Litter Basket Request,QUEENS,16
+2025-03-17,Vendor Enforcement,BRONX,38
+2025-03-17,Illegal Posting,MANHATTAN,7
+2025-03-17,Missed Collection,MANHATTAN,111
+2025-03-17,Dead Animal,QUEENS,45
+2025-03-17,Sanitation Worker or Vehicle Complaint,BROOKLYN,20
+2025-03-17,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,8
+2025-03-17,Graffiti,QUEENS,38
+2025-03-17,Graffiti,BROOKLYN,272
+2025-03-17,Highway Condition,BROOKLYN,4
+2025-03-17,Commercial Disposal Complaint,MANHATTAN,15
+2025-03-17,Derelict Vehicles,BROOKLYN,287
+2025-03-17,Residential Disposal Complaint,BRONX,26
+2025-03-17,Dead Animal,STATEN ISLAND,22
+2025-03-17,Derelict Vehicles,MANHATTAN,58
+2025-03-17,Vendor Enforcement,BROOKLYN,61
+2025-03-17,Dirty Condition,STATEN ISLAND,73
+2025-03-17,Missed Collection,BROOKLYN,300
+2025-03-17,Street Sweeping Complaint,MANHATTAN,21
+2025-03-17,Illegal Dumping,BRONX,139
+2025-03-17,Missed Collection,STATEN ISLAND,148
+2025-03-17,Street Sweeping Complaint,BROOKLYN,61
+2025-03-17,Street Sweeping Complaint,BRONX,23
+2025-03-17,Sanitation Worker or Vehicle Complaint,MANHATTAN,14
+2025-03-17,Graffiti,MANHATTAN,78
+2025-03-17,Graffiti,BRONX,41
+2025-03-17,Highway Condition,QUEENS,9
+2025-03-17,Commercial Disposal Complaint,QUEENS,15
+2025-03-17,Lot Condition,BRONX,5
+2025-03-17,Residential Disposal Complaint,STATEN ISLAND,14
+2025-03-17,Litter Basket Request,BROOKLYN,23
+2025-03-17,Obstruction,BRONX,25
+2025-03-17,Dead Animal,MANHATTAN,19
+2025-03-17,Lot Condition,QUEENS,8
+2025-03-17,Highway Condition,STATEN ISLAND,11
+2025-03-17,Lot Condition,MANHATTAN,6
+2025-03-17,Dumpster Complaint,BRONX,2
+2025-03-17,Litter Basket Complaint,MANHATTAN,3
+2025-03-17,Recycling Basket Complaint,QUEENS,2
+2025-03-17,Lot Condition,BROOKLYN,9
+2025-03-17,Derelict Vehicles,Unspecified,6
+2025-03-17,Litter Basket Request,MANHATTAN,13
+2025-03-17,Dumpster Complaint,QUEENS,2
+2025-03-17,Dumpster Complaint,BROOKLYN,9
+2025-03-17,Illegal Posting,BROOKLYN,38
+2025-03-17,Illegal Posting,STATEN ISLAND,26
+2025-03-17,Litter Basket Request,BRONX,11
+2025-03-17,Derelict Vehicles,STATEN ISLAND,33
+2025-03-17,Commercial Disposal Complaint,BRONX,3
+2025-03-10,Derelict Vehicles,Unspecified,1
+2025-03-17,Abandoned Bike,QUEENS,6
+2025-03-17,Dead Animal,BRONX,10
+2025-03-17,Street Sweeping Complaint,QUEENS,17
+2025-03-17,Litter Basket Complaint,BROOKLYN,6
+2025-03-17,Illegal Posting,BRONX,9
+2025-03-17,Highway Condition,BRONX,4
+2025-03-17,Sanitation Worker or Vehicle Complaint,BRONX,5
+2025-03-17,Lot Condition,STATEN ISLAND,5
+2025-03-17,Recycling Basket Complaint,BROOKLYN,1
+2025-03-17,Abandoned Bike,BRONX,3
+2025-03-17,Litter Basket Complaint,BRONX,3
+2025-03-17,Graffiti,STATEN ISLAND,5
+2025-03-17,Litter Basket Complaint,QUEENS,1
+2025-03-17,Commercial Disposal Complaint,STATEN ISLAND,1
+2025-03-17,Incorrect Data,MANHATTAN,1
+2025-03-24,Missed Collection,QUEENS,255
+2025-03-17,Litter Basket Complaint,STATEN ISLAND,1
+2025-03-24,Graffiti,MANHATTAN,58
+2025-03-24,Graffiti,BROOKLYN,276
+2025-03-24,Street Sweeping Complaint,BROOKLYN,70
+2025-03-24,Litter Basket Request,MANHATTAN,8
+2025-03-24,Illegal Dumping,BRONX,141
+2025-03-24,Dirty Condition,BROOKLYN,384
+2025-03-24,Abandoned Bike,BRONX,4
+2025-03-24,Commercial Disposal Complaint,BROOKLYN,24
+2025-03-24,Abandoned Bike,MANHATTAN,9
+2025-03-24,Dirty Condition,BRONX,178
+2025-03-24,Dirty Condition,QUEENS,211
+2025-03-24,Obstruction,MANHATTAN,75
+2025-03-24,Residential Disposal Complaint,QUEENS,43
+2025-03-24,Dirty Condition,MANHATTAN,178
+2025-03-24,Illegal Dumping,QUEENS,314
+2025-03-24,Illegal Dumping,BROOKLYN,258
+2025-03-24,Illegal Dumping,STATEN ISLAND,52
+2025-03-24,Missed Collection,MANHATTAN,94
+2025-03-24,Missed Collection,BROOKLYN,297
+2025-03-24,Illegal Dumping,MANHATTAN,73
+2025-03-24,Derelict Vehicles,QUEENS,256
+2025-03-24,Residential Disposal Complaint,STATEN ISLAND,14
+2025-03-24,Residential Disposal Complaint,MANHATTAN,67
+2025-03-24,Obstruction,QUEENS,128
+2025-03-24,Residential Disposal Complaint,BRONX,23
+2025-03-24,Vendor Enforcement,MANHATTAN,323
+2025-03-24,Dead Animal,STATEN ISLAND,22
+2025-03-24,Dead Animal,BRONX,15
+2025-03-24,Illegal Posting,STATEN ISLAND,38
+2025-03-24,Derelict Vehicles,BRONX,236
+2025-03-24,Vendor Enforcement,BRONX,30
+2025-03-24,Derelict Vehicles,BROOKLYN,307
+2025-03-24,Vendor Enforcement,QUEENS,69
+2025-03-24,Sanitation Worker or Vehicle Complaint,MANHATTAN,19
+2025-03-24,Illegal Posting,QUEENS,20
+2025-03-24,Obstruction,BRONX,18
+2025-03-24,Street Sweeping Complaint,MANHATTAN,22
+2025-03-24,Street Sweeping Complaint,BRONX,24
+2025-03-24,Residential Disposal Complaint,BROOKLYN,79
+2025-03-24,Sanitation Worker or Vehicle Complaint,BRONX,6
+2025-03-24,Sanitation Worker or Vehicle Complaint,QUEENS,10
+2025-03-24,Dead Animal,QUEENS,76
+2025-03-24,Illegal Posting,BRONX,3
+2025-03-24,Litter Basket Request,QUEENS,14
+2025-03-24,Obstruction,BROOKLYN,82
+2025-03-24,Litter Basket Complaint,BRONX,3
+2025-03-24,Missed Collection,STATEN ISLAND,156
+2025-03-24,Graffiti,QUEENS,51
+2025-03-24,Missed Collection,BRONX,81
+2025-03-24,Graffiti,BRONX,47
+2025-03-24,Dumpster Complaint,BROOKLYN,6
+2025-03-24,Highway Condition,STATEN ISLAND,8
+2025-03-24,Abandoned Bike,BROOKLYN,21
+2025-03-24,Dead Animal,BROOKLYN,64
+2025-03-24,Dirty Condition,STATEN ISLAND,90
+2025-03-24,Commercial Disposal Complaint,MANHATTAN,13
+2025-03-24,Obstruction,STATEN ISLAND,15
+2025-03-24,Litter Basket Request,BRONX,4
+2025-03-24,Dumpster Complaint,MANHATTAN,7
+2025-03-24,Lot Condition,MANHATTAN,3
+2025-03-24,Litter Basket Request,BROOKLYN,24
+2025-03-24,Litter Basket Request,STATEN ISLAND,3
+2025-03-24,Illegal Posting,BROOKLYN,41
+2025-03-24,Recycling Basket Complaint,BROOKLYN,1
+2025-03-24,Vendor Enforcement,BROOKLYN,61
+2025-03-24,Litter Basket Complaint,BROOKLYN,13
+2025-03-24,Street Sweeping Complaint,STATEN ISLAND,1
+2025-03-24,Dumpster Complaint,QUEENS,4
+2025-03-24,Lot Condition,QUEENS,10
+2025-03-24,Dead Animal,MANHATTAN,15
+2025-03-24,Sanitation Worker or Vehicle Complaint,BROOKLYN,20
+2025-03-24,Lot Condition,BROOKLYN,6
+2025-03-24,Derelict Vehicles,STATEN ISLAND,36
+2025-03-24,Highway Condition,QUEENS,8
+2025-03-24,Street Sweeping Complaint,QUEENS,16
+2025-03-24,Commercial Disposal Complaint,QUEENS,10
+2025-03-24,Vendor Enforcement,STATEN ISLAND,2
+2025-03-24,Recycling Basket Complaint,MANHATTAN,1
+2025-03-24,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,5
+2025-03-24,Abandoned Bike,QUEENS,5
+2025-03-24,Derelict Vehicles,MANHATTAN,46
+2025-03-24,Lot Condition,STATEN ISLAND,6
+2025-03-24,Lot Condition,BRONX,5
+2025-03-24,Illegal Posting,MANHATTAN,5
+2025-03-24,Litter Basket Complaint,QUEENS,2
+2025-03-24,Highway Condition,MANHATTAN,2
+2025-03-24,Highway Condition,BRONX,1
+2025-03-24,Litter Basket Request,Unspecified,1
+2025-03-24,Litter Basket Complaint,MANHATTAN,7
+2025-03-24,Litter Basket Complaint,STATEN ISLAND,3
+2025-03-24,Dumpster Complaint,BRONX,3
+2025-03-24,Graffiti,STATEN ISLAND,6
+2025-03-24,Derelict Vehicles,Unspecified,2
+2025-03-24,Unspecified,QUEENS,1
+2025-03-24,Recycling Basket Complaint,STATEN ISLAND,1
+2025-03-24,Commercial Disposal Complaint,BRONX,2
+2025-03-31,Dirty Condition,MANHATTAN,49
+2025-03-24,Recycling Basket Complaint,BRONX,1
+2025-03-31,Illegal Dumping,BRONX,22
+2025-03-31,Residential Disposal Complaint,MANHATTAN,12
+2025-03-31,Dirty Condition,BRONX,32
+2025-03-31,Illegal Dumping,MANHATTAN,24
+2025-03-31,Illegal Dumping,BROOKLYN,37
+2025-03-31,Missed Collection,BROOKLYN,17
+2025-03-31,Obstruction,BRONX,9
+2025-03-31,Dumpster Complaint,QUEENS,3
+2025-03-31,Obstruction,MANHATTAN,18
+2025-03-31,Commercial Disposal Complaint,BROOKLYN,6
+2025-03-31,Dirty Condition,QUEENS,33
+2025-03-31,Highway Condition,STATEN ISLAND,3
+2025-03-31,Illegal Dumping,QUEENS,53
+2025-03-31,Illegal Dumping,STATEN ISLAND,5
+2025-03-31,Missed Collection,QUEENS,10
+2025-03-31,Litter Basket Complaint,QUEENS,2
+2025-03-31,Residential Disposal Complaint,BROOKLYN,9
+2025-03-31,Missed Collection,MANHATTAN,9
+2025-03-31,Missed Collection,STATEN ISLAND,8
+2025-03-31,Vendor Enforcement,MANHATTAN,36
+2025-03-31,Dead Animal,QUEENS,6
+2025-03-31,Residential Disposal Complaint,QUEENS,9
+2025-03-31,Illegal Posting,STATEN ISLAND,7
+2025-03-31,Vendor Enforcement,BROOKLYN,6
+2025-03-31,Vendor Enforcement,BRONX,5
+2025-03-31,Dead Animal,BROOKLYN,4
+2025-03-31,Dirty Condition,STATEN ISLAND,18
+2025-03-31,Dirty Condition,BROOKLYN,65
+2025-03-31,Residential Disposal Complaint,BRONX,6
+2025-03-31,Illegal Posting,BROOKLYN,1
+2025-03-31,Missed Collection,BRONX,5
+2025-03-31,Litter Basket Request,BROOKLYN,9
+2025-03-31,Obstruction,QUEENS,15
+2025-03-31,Graffiti,MANHATTAN,8
+2025-03-31,Derelict Vehicles,BRONX,27
+2025-03-31,Derelict Vehicles,BROOKLYN,42
+2025-03-31,Derelict Vehicles,QUEENS,35
+2025-03-31,Derelict Vehicles,MANHATTAN,10
+2025-03-31,Graffiti,BROOKLYN,25
+2025-03-31,Lot Condition,QUEENS,4
+2025-03-31,Litter Basket Complaint,MANHATTAN,1
+2025-03-31,Sanitation Worker or Vehicle Complaint,STATEN ISLAND,2
+2025-03-31,Litter Basket Request,STATEN ISLAND,2
+2025-03-31,Litter Basket Request,QUEENS,2
+2025-03-31,Graffiti,BRONX,4
+2025-03-31,Vendor Enforcement,QUEENS,8
+2025-03-31,Dead Animal,BRONX,3
+2025-03-31,Illegal Posting,QUEENS,12
+2025-03-31,Obstruction,BROOKLYN,9
+2025-03-31,Litter Basket Request,MANHATTAN,4
+2025-03-31,Abandoned Bike,BROOKLYN,2
+2025-03-31,Dead Animal,STATEN ISLAND,3
+2025-03-31,Sanitation Worker or Vehicle Complaint,QUEENS,4
+2025-03-31,Graffiti,QUEENS,8
+2025-03-31,Sanitation Worker or Vehicle Complaint,MANHATTAN,2
+2025-03-31,Commercial Disposal Complaint,QUEENS,3
+2025-03-31,Dumpster Complaint,BRONX,1
+2025-03-31,Dead Animal,MANHATTAN,2
+2025-03-31,Sanitation Worker or Vehicle Complaint,BROOKLYN,6
+2025-03-31,Highway Condition,MANHATTAN,1
+2025-03-31,Commercial Disposal Complaint,MANHATTAN,2
+2025-03-31,Highway Condition,BRONX,1
+2025-03-31,Sanitation Worker or Vehicle Complaint,BRONX,1
+2025-03-31,Graffiti,STATEN ISLAND,1
+2025-03-31,Residential Disposal Complaint,STATEN ISLAND,1
+2025-03-31,Illegal Posting,MANHATTAN,1
+2025-03-31,Dumpster Complaint,STATEN ISLAND,1
+2025-03-31,Highway Condition,BROOKLYN,1
+2025-03-31,Obstruction,STATEN ISLAND,2
+2025-03-31,Derelict Vehicles,Unspecified,1
